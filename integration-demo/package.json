@@ -13,6 +13,6 @@
     "license": "ISC",
     "dependencies": {
       "@thundra/core": "^2.5.7",
-      "pg": "6.4.0"
+      "pg": "6.4.2"
     }
 }
